@@ -1,56 +1,112 @@
 <?xml version="1.0"?>
 <ArrayOfCarModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CarModel>
-    <ID>46bf776e-13e9-4d4e-83ae-964a0455545a</ID>
+    <ID>5d6ca0fe-2946-424d-8b29-19d5106fa83a</ID>
     <Name>RAV4</Name>
-    <VendorId>R4H7</VendorId>
+    <VendorId>rv4</VendorId>
     <Modifications>
       <CarModification>
-        <ID>271e89dc-c763-4215-83f8-bad6943194e3</ID>
+        <ID>20eef086-5bbc-4f8f-9440-8c1212f5dcf1</ID>
         <Name>Lounge</Name>
-        <VendorId>LG28</VendorId>
+        <VendorId>LG10</VendorId>
         <_Colors>
           <CarBodyColor>
-            <ID>efcd0e1c-50d7-434c-84af-93678e91871a</ID>
+            <ID>26929cce-970a-471f-9939-bce4a24fbc3b</ID>
             <Name>white</Name>
             <VendorId>040</VendorId>
           </CarBodyColor>
           <CarBodyColor>
-            <ID>5be3c453-2780-4ffc-9d0f-1e84fcfc3140</ID>
+            <ID>bfd2120c-3c3c-4fe9-803f-4b9e7c492b75</ID>
             <Name>red</Name>
             <VendorId>3v5</VendorId>
           </CarBodyColor>
           <CarBodyColor>
-            <ID>c812d248-df1a-473a-ad84-22a2758aca20</ID>
+            <ID>5076d500-9820-44a8-85dd-9e7d7fe21d63</ID>
             <Name>metalic</Name>
             <VendorId>1d6</VendorId>
           </CarBodyColor>
           <CarBodyColor>
-            <ID>d235b1f2-8194-482b-b95c-41e58993b642</ID>
+            <ID>66c9fac0-4f10-481c-9d63-956e8dbd6588</ID>
             <Name>black</Name>
             <VendorId>218</VendorId>
           </CarBodyColor>
         </_Colors>
       </CarModification>
       <CarModification>
-        <ID>3b6ba49f-f00d-4053-97f7-26030069ac8f</ID>
+        <ID>f49dead6-7daa-416d-8c6d-a0224c10fad0</ID>
         <Name>Style</Name>
-        <VendorId>SL55</VendorId>
+        <VendorId>SL74</VendorId>
         <_Colors>
           <CarBodyColor>
-            <ID>55cd6c61-0577-4d26-a8cf-7b8aac26515a</ID>
+            <ID>8e83cf5f-e450-4ce6-a3e0-81fd07ed0036</ID>
             <Name>black</Name>
             <VendorId>2ra</VendorId>
           </CarBodyColor>
           <CarBodyColor>
-            <ID>f92e1b47-441f-406a-8503-3e9f64888b07</ID>
+            <ID>06f37006-78a8-42b9-ac82-caff8c9a7268</ID>
             <Name>grey</Name>
             <VendorId>2qz</VendorId>
           </CarBodyColor>
           <CarBodyColor>
-            <ID>dc8e6ecf-8037-481d-bc75-3e1afed01053</ID>
+            <ID>e72aeccd-1fab-4a92-8f25-450b36cfc845</ID>
             <Name>white</Name>
-            <VendorId>2qj</VendorId>
+            <VendorId>040</VendorId>
+          </CarBodyColor>
+        </_Colors>
+      </CarModification>
+    </Modifications>
+  </CarModel>
+  <CarModel>
+    <ID>65c4f7b6-429a-4e8f-b139-fa18eab93be8</ID>
+    <Name>Yaris</Name>
+    <VendorId>YS54</VendorId>
+    <Modifications>
+      <CarModification>
+        <ID>25b43b8e-7fe8-445f-b8cd-e9b6fc25209a</ID>
+        <Name>Style</Name>
+        <VendorId>SL13</VendorId>
+        <_Colors>
+          <CarBodyColor>
+            <ID>3997c572-87a3-478b-adff-e4dac06262ae</ID>
+            <Name>black</Name>
+            <VendorId>2nd</VendorId>
+          </CarBodyColor>
+          <CarBodyColor>
+            <ID>04e41b64-e46e-44e4-9ee9-23124153ee5e</ID>
+            <Name>white</Name>
+            <VendorId>2st</VendorId>
+          </CarBodyColor>
+          <CarBodyColor>
+            <ID>ca6810d0-53f2-40a6-a932-2b1ac35d797b</ID>
+            <Name>grey</Name>
+            <VendorId>2sv</VendorId>
+          </CarBodyColor>
+        </_Colors>
+      </CarModification>
+      <CarModification>
+        <ID>ada59e81-8f02-441c-a3de-6739c568a2bd</ID>
+        <Name>Cross</Name>
+        <VendorId>CS63</VendorId>
+        <_Colors>
+          <CarBodyColor>
+            <ID>6b16a445-02b8-44a8-9aa7-0342a97ec94a</ID>
+            <Name>blue</Name>
+            <VendorId>040</VendorId>
+          </CarBodyColor>
+          <CarBodyColor>
+            <ID>0f3e209f-638c-402a-9731-1a4cf21670fd</ID>
+            <Name>metalic</Name>
+            <VendorId>1g3</VendorId>
+          </CarBodyColor>
+          <CarBodyColor>
+            <ID>a7bb145d-22c6-46c4-9611-6623ff3c8a4c</ID>
+            <Name>red</Name>
+            <VendorId>3u5</VendorId>
+          </CarBodyColor>
+          <CarBodyColor>
+            <ID>0e125105-8e6f-4b25-90c1-7fcb2e92be17</ID>
+            <Name>blue</Name>
+            <VendorId>8w7</VendorId>
           </CarBodyColor>
         </_Colors>
       </CarModification>
