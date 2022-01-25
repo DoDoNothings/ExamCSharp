@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarsBase.Entities.Colors.CarBodyColor">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgACAAAAAAAAAAAABAAAAAAQAEAAAAA=</HashCode>
+      <FileName>Entities\Colors\CarBodyColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarsBase.Entities.Models.CarModel" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAJBAAAAAAACAAAAAAIAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Models\CarModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarsBase.Entities.Modifications.CarModification">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAACABAAAAACAAAAAAAIAAAAAAQAgAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Modifications\CarModification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarsBase.Entities.BASE" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Entities\BASES\Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarsBase.LineUp" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAACAAAAABAAQAAEAAIAAEiAIAAAEAA=</HashCode>
+      <FileName>LineUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

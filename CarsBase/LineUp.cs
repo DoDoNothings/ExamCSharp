@@ -31,7 +31,7 @@ namespace CarsBase
           //  CreateLineUp(); 
            // SerialXML();
 
-            //Models = readBase();
+            Models = readBase();
 
             //// модели
             //AddModel(Models);
@@ -56,7 +56,7 @@ namespace CarsBase
             //colors.ChangeVendor(Models, model.ChooseModel(Models));
 
             SeachColor();
-            Show();
+            //Show();
 
             //SerialXML();
         }
